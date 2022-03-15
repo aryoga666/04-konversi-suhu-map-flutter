@@ -6,11 +6,11 @@ Kelas : MI 2C<br>
 
 ## Hasil Praktikum
 
-Sebelum
-![image.png](img\Sebelum.png)
+Sebelum <br>
+![Screenshot Dashboard Oracle](img/Sebelum.png)
 
-Sesudah
-![image.png](img\Sesudah.png)
+Sesudah <br>
+![Screenshot Dashboard Oracle](img/Sesudah.png)
 
-Riwayat Konversi
-![image.png](img\Riwayat.png)
+Riwayat Konversi <br>
+![Screenshot Dashboard Oracle](img/Riwayat.png)
